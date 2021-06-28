@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Grota Rounded';
-    src: url('https://github.com/mahmoud-Ganainy/super-duper-adventure/blob/master/fonts/GrotaRoundedBold.woff2') format('woff2'),
-        url('https://github.com/mahmoud-Ganainy/super-duper-adventure/blob/master/fonts/GrotaRoundedBold.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/mahmoud-Ganainy/super-duper-adventure/blob/master/fonts/GrotaRoundedBold.woff2') format('woff2'),
+        url('https://raw.githubusercontent.com/mahmoud-Ganainy/super-duper-adventure/blob/master/fonts/GrotaRoundedBold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
